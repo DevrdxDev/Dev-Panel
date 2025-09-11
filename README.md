@@ -1,7 +1,7 @@
 Install Pterodactyl Panel
 
-```https://raw.githubusercontent.com/DevrdxDev/Dev-Panel/refs/heads/main/panel```
+```bash <(curl -s https://raw.githubusercontent.com/DevrdxDev/Dev-Panel/refs/heads/main/panel)```
 
 Install Wings 
 
-```https://raw.githubusercontent.com/DevrdxDev/Dev-Panel/refs/heads/main/wings```
+```bash <(curl -s https://raw.githubusercontent.com/DevrdxDev/Dev-Panel/refs/heads/main/wings)```
