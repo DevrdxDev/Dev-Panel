@@ -11,6 +11,8 @@ All Commands
 
 ```cd pterodactyl```
 
+```nano /etc/pterodactyl/config.yml```
+
 ```cd wings```
 
 ```docker-compose up -d --force-recreate```
