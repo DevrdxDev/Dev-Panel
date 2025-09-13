@@ -13,6 +13,13 @@ All Commands
 
 ```nano /etc/pterodactyl/config.yml```
 
+```In the certs  /etc/letsencrypt/live/your-domain.com/fullchain.pem```
+
+```First You edit this  /etc/certs/fullchain.pem```
+
+```And also use in key```
+
+
 ```cd wings```
 
 ```docker-compose up -d --force-recreate```
